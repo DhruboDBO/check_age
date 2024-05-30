@@ -1,4 +1,4 @@
-import cv2
+import cv2hvk
 
 def main():
     # Load the models
